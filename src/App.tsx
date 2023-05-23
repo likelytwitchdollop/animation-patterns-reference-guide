@@ -1,10 +1,9 @@
 function App() {
-
-  return (
-    <>
-      <p>Animation Patterns Reference Guide</p>
-    </>
-  )
+	return (
+		<main>
+			<p>Animation Patterns Reference Guide</p>
+		</main>
+	)
 }
 
 export default App
